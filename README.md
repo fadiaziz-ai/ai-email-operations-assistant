@@ -130,3 +130,26 @@ Future upgrades include:
 Active development and real-world workflow testing.
 
 Built and maintained by Fadi Aziz.
+---
+
+## Tech Stack
+
+- n8n
+- OpenAI
+- Gmail API
+- Google Sheets
+- AI Email Classification
+- Workflow Automation
+- Smart Drafting Logic
+- Gmail Labels & Routing
+
+---
+
+## Future Expansion
+
+- Appointment booking assistant
+- Calendar integration
+- AI priority detection
+- Client communication management
+- Multi-business inbox systems
+- SaaS-ready architecture
