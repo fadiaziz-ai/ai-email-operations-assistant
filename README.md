@@ -6,7 +6,7 @@ AI-powered email operations assistant built with n8n, OpenAI, Gmail, and workflo
 
 ## Overview
 
-This system automatically manages incoming business emails using AI-powered classification, smart drafting, Gmail labels, and workflow automation.
+This system automatically manages incoming business emails using AI-powered classification, smart drafting, Gmail labels, and intelligent workflow automation.
 
 The goal is to reduce manual inbox work, organize communication professionally, and create scalable AI-powered inbox systems for labels, agencies, creators, and businesses.
 
@@ -75,7 +75,23 @@ Then creates:
 * Auto replies
 * Review labels
 * Draft responses
-* Acceptance/rejection flows
+* Acceptance / rejection flows
+
+---
+
+### Accept / Reject Review Handler
+
+The system includes a manual review workflow for accepted and rejected demo submissions.
+
+After a demo is reviewed, specific Gmail labels can trigger the correct response path:
+
+* Accepted demo response
+* Rejected demo response
+* Follow-up material requests
+* Processed label updates
+* Inbox organization without losing visibility
+
+This keeps sensitive decisions human-approved while still automating the final communication workflow.
 
 ---
 
@@ -99,6 +115,8 @@ The assistant generates professional replies using:
 * Google Sheets
 * AI Prompt Engineering
 * Workflow Automation
+* Smart Drafting Logic
+* Gmail Labels & Routing
 
 ---
 
@@ -122,6 +140,8 @@ Future upgrades include:
 * Smart appointment systems
 * Team collaboration workflows
 * SaaS dashboard interface
+* Multi-business inbox management
+* AI priority detection
 
 ---
 
@@ -130,26 +150,3 @@ Future upgrades include:
 Active development and real-world workflow testing.
 
 Built and maintained by Fadi Aziz.
----
-
-## Tech Stack
-
-- n8n
-- OpenAI
-- Gmail API
-- Google Sheets
-- AI Email Classification
-- Workflow Automation
-- Smart Drafting Logic
-- Gmail Labels & Routing
-
----
-
-## Future Expansion
-
-- Appointment booking assistant
-- Calendar integration
-- AI priority detection
-- Client communication management
-- Multi-business inbox systems
-- SaaS-ready architecture
