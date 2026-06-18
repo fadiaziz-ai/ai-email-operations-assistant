@@ -1,14 +1,14 @@
 # AI Email Operations Assistant
 
-AI-powered email operations assistant built with n8n, OpenAI, Gmail, Telegram, and workflow automation.
+AI-powered email operations assistant built with n8n, OpenAI, Gmail, and workflow automation.
 
 ---
 
 ## Overview
 
-This system automatically manages incoming business emails using AI-powered classification, smart drafting, Gmail labels, and automation workflows.
+This system automatically manages incoming business emails using AI-powered classification, smart drafting, Gmail labels, and workflow automation.
 
-The goal is to reduce manual inbox work, organize communication professionally, and create scalable AI-powered business inbox systems for labels, agencies, creators, and companies.
+The goal is to reduce manual inbox work, organize communication professionally, and create scalable AI-powered inbox systems for labels, agencies, creators, and businesses.
 
 ---
 
@@ -18,7 +18,6 @@ The goal is to reduce manual inbox work, organize communication professionally, 
 * Smart reply generation
 * Gmail label automation
 * Draft creation workflows
-* Telegram notifications
 * Inbox organization system
 * Demo submission handling
 * Meeting request detection
@@ -46,17 +45,15 @@ The system can classify emails into categories such as:
 
 ## Workflow Architecture
 
-### Main Workflow Flow
-
 Gmail Trigger
 ↓
 AI Email Classification
 ↓
 Decision Router
 ↓
-Reply / Draft / Label / Notify Actions
+Reply / Draft / Label Actions
 ↓
-Telegram + Gmail Updates
+Gmail Updates & Workflow Logging
 
 ---
 
@@ -94,24 +91,11 @@ The assistant generates professional replies using:
 
 ---
 
-### Telegram Command Center
-
-Integrated Telegram controls allow:
-
-* Workflow notifications
-* Manual approvals
-* Draft monitoring
-* Status tracking
-* Important email alerts
-
----
-
 ## Technology Stack
 
 * n8n
 * OpenAI
 * Gmail API
-* Telegram Bot API
 * Google Sheets
 * AI Prompt Engineering
 * Workflow Automation
