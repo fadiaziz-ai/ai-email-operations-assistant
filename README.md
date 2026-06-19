@@ -81,7 +81,15 @@ Gmail Updates & Workflow Logging
 
 ![AI Demo Submission Reply Example](assets/screenshots/ai-demo-submission-response.png)
 
+### Accepted Demo Response
+
+![Accepted Demo Response](assets/screenshots/accepted-demo-response.png)
+
 ---
+
+### Rejected Demo Response
+
+![Rejected Demo Response](assets/screenshots/rejected-demo-response.png)---
 
 ## Smart Automation Features
 
