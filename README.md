@@ -57,6 +57,32 @@ Gmail Updates & Workflow Logging
 
 ---
 
+## System Screenshots
+
+### Main AI Inbox Workflow
+
+![Main AI Inbox Workflow](assets/screenshots/main-workflow.png)
+
+---
+
+### Accept / Reject Review Handler
+
+![Accept / Reject Review Handler](assets/screenshots/review-handler.png)
+
+---
+
+### Gmail Label System
+
+![Gmail Label System](assets/screenshots/gmail-label-system.png)
+
+---
+
+### AI Demo Submission Reply Example
+
+![AI Demo Submission Reply Example](assets/screenshots/ai-demo-submission-response.png)
+
+---
+
 ## Smart Automation Features
 
 ### Demo Submission Processing
